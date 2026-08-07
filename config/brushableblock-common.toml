@@ -1,0 +1,3 @@
+#Choose the brushing progress overlay mode
+#Allowed Values: NONE, VANILLA, CUSTOM
+overlayMode = "NONE"

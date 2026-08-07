@@ -1,0 +1,11 @@
+[performance]
+	enableLighting = true
+	renderOtherPlayers = true
+
+[light]
+	# Default: 128.0
+	# Range: 16.0 ~ 256.0
+	lightDistance = 128.0
+	# Default: 0.5
+	# Range: 0.0 ~ 2.0
+	lightBrightness = 0.5
